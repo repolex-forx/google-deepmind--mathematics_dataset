@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "mathematics_dataset",
+  "versions": [
+    {
+      "commit": "427f45075f84b8b9774950196ad63867ca20ffb3",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:14:22.718222+00:00"
+    }
+  ]
+}
