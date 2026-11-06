@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/mathematics_dataset/commit/427f45075f84b8b9774950196ad63867ca20ffb3",
       "git:hexsha": "427f45075f84b8b9774950196ad63867ca20ffb3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
